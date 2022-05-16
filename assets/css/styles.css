@@ -754,6 +754,11 @@ img {
   margin-right: var(--mb-0-25);
 }
 
+.link_style{
+  font-size: .9rem;
+  color: var(--first-color);
+}
+
 
 
 /* Active Modal */
