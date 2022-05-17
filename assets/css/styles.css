@@ -335,6 +335,7 @@ img {
 }
 
 .home_description{
+  text-align: justify;
   margin-bottom: var(--mb-2);
 }
 
@@ -428,7 +429,7 @@ img {
 }
 
 .about_description{
-  text-align: center;
+  text-align: justify;
   margin-bottom: var(--mb-2-5);
 }
 
@@ -790,6 +791,7 @@ img {
 }
 
 .portfolio_description{
+  text-align: justify;
   margin-bottom: var(--mb-o-75);
 }
 
@@ -1215,7 +1217,7 @@ img {
     width: 350px;
   }
   .about_description{
-    text-align: initial;
+    text-align: justify;
   }
   .about_info{
     justify-content: space-between;
